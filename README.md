@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/fahimsahriar/fahimsahriar/blob/8fa0385f08e523df1ea0c887719074fa340e23d2/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image.png"  />
+  <img src="[https://github.com/fahimsahriar/fahimsahriar/blob/8fa0385f08e523df1ea0c887719074fa340e23d2/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image.png](https://github.com/fahimsahriar/fahimsahriar/blob/669df6191c4eba48a040137f1f7eafec1d0ddd4f/coverpic.png)"  />
 </div>
 
 ###
