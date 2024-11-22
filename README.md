@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/fahimsahriar/fahimsahriar/blob/669df6191c4eba48a040137f1f7eafec1d0ddd4f/Black and White Modern Minimalist Flatlay Photograph LinkedIn Article Cover Image.png"  />
+  <img src="https://github.com/fahimsahriar/fahimsahriar/blob/669df6191c4eba48a040137f1f7eafec1d0ddd4f/coverpic2.png"  />
 </div>
 
 ###
