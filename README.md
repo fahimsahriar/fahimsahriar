@@ -1,14 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahimsahriar/fahimsahriar/99ff79e825665b122fa6cb3bc5a48e46c27f7558/coverpic2.png"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://linkedin.com/in/fahim-sahriar-0893831a4">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="[https://youtube.com](https://www.youtube.com/@fahimsahriar156)">
+  <a href="https://www.youtube.com/@fahimsahriar156">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com">
@@ -28,45 +22,35 @@
 
 ###
 
+<p align="center">
+I'm Fahim Sahriar from 📍 Dhaka, Bangladesh<br><br>
+- 🔍 I enjoy solving problems using Data Structures & Algorithms, Object-Oriented Programming, Design Principles, and Design Patterns..<br>
+- 🧠 I am continuously learning and enjoy the process of problem solving.<br>
+- 🛠 I also solve real-world problems through full-stack software development—leveraging frontend, backend, databases, servers, computer networks, operating systems, and version control systems to build scalable applications.<br>
+- 🧠 In my free time, I sharpen my skills, explore new topics in software development, and use this GitHub profile to store my learning and personal practice projects.
+</p>
+
 
 ###
 
-<p align="center">I'm Fahim Sahriar from 📍 Dhaka, Bangladesh<br><br>- 🔭 I’m working on a range of projects focused on backend and frontend development<br>- 📚 I'm currently diving deeper into expanding my skillset and refining my craft<br>- ⚡ In my free time, I enjoy exploring new concepts and working on personal projects</p>
-
-###
-
-<h3 align="center">🛠 Skills and Tools</h3>
+<h3 align="center">🛠 Tools I'm Familiar With and Have Used in My Work</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="asp.net logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-</div>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fahimsahriar&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
